@@ -5,13 +5,7 @@ import { getMessaging } from "firebase/messaging";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD1v3nhwVcp6xahByLgiv2nQJDv0WqpKCQ",
-  authDomain: "tareass-b88e3.firebaseapp.com",
-  projectId: "tareass-b88e3",
-  storageBucket: "tareass-b88e3.firebasestorage.app",
-  messagingSenderId: "187896811281",
-  appId: "1:187896811281:web:a371c889bffd7c457046b0",
-  measurementId: "G-5WHP8DLFQP"
+ 
 };
 
 
